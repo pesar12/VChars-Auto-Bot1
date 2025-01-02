@@ -25,7 +25,7 @@ Before running the bot, make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/airdropinsiders/VChars-Auto-Bot.git && cd VChars-Auto-Bot
+git clone https://github.com/pesar12/VChars-Auto-Bot1.git && cd VChars-Auto-Bot1
 ```
 
 2. Install dependencies:
